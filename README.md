@@ -9,7 +9,11 @@ This project is part of **GSSoC 2025 (GirlScript Summer of Code)**.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+
+### ⭐ Don't forget to star this repo if you find it useful! ⭐
 ---
+
+
 
 ## 📌 Table of Contents
 - [🎯 About](#-about)
@@ -185,8 +189,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 **👤 Ujjwal Rai**
 - GitHub: [@Ujjwalrai01](https://github.com/Ujjwalrai01)
-- Email: [your-email@example.com](mailto:your-urai31382@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ujjwal-rai01)
+- Email: urai31382@gmail.com
+- LinkedIn: [ujjwalrai01](https://www.linkedin.com/in/ujjwal-rai01)
 
 ---
 
