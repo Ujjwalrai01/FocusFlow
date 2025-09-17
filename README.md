@@ -13,7 +13,10 @@ This project is part of **GSSoC 2025 (GirlScript Summer of Code)**.
 ### ⭐ Don't forget to star this repo if you find it useful! ⭐
 ---
 
+## ✨ Demo Image 
+<img width="1855" height="961" alt="image" src="https://github.com/user-attachments/assets/4d806382-8f61-450f-b95b-0435c98ab29b" />
 
+---
 
 ## 📌 Table of Contents
 - [🎯 About](#-about)
