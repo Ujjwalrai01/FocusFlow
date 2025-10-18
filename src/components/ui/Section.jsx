@@ -1,4 +1,5 @@
 // // This is a new, simplified component to handle the consistent layout of each page section.
+// // This is a new, simplified component to handle the consistent layout of each page section.
 // import React from 'react';
 // import { Home } from 'lucide-react';
 
